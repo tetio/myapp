@@ -1,9 +1,16 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
+  name: p1
   desc: MyString
+  category: c1
 
 two:
-  name: MyString
+  name: p2
   desc: MyString
+  category: c1
+
+three:
+  name: p3
+  desc: MyString
+  category: c2
